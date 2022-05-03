@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uKTSfYg8egXIwRZiZ5aSTLcRZA2D4hvGjpYJ9ACUnoI=",
+  "Source": "Localiza.WebAPI",
+  "BasePath": "_content/Localiza.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

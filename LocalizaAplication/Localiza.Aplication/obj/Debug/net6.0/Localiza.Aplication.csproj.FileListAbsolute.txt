@@ -1,0 +1,15 @@
+C:\Users\Leonardo\source\repos\LocalizaAplication\Localiza.Aplication\bin\Debug\net6.0\Localiza.Aplication.deps.json
+C:\Users\Leonardo\source\repos\LocalizaAplication\Localiza.Aplication\bin\Debug\net6.0\Localiza.Aplication.dll
+C:\Users\Leonardo\source\repos\LocalizaAplication\Localiza.Aplication\bin\Debug\net6.0\Localiza.Aplication.pdb
+C:\Users\Leonardo\source\repos\LocalizaAplication\Localiza.Aplication\bin\Debug\net6.0\Localiza.Domain.dll
+C:\Users\Leonardo\source\repos\LocalizaAplication\Localiza.Aplication\bin\Debug\net6.0\Localiza.Domain.pdb
+C:\Users\Leonardo\source\repos\LocalizaAplication\Localiza.Aplication\obj\Debug\net6.0\Localiza.Aplication.csproj.AssemblyReference.cache
+C:\Users\Leonardo\source\repos\LocalizaAplication\Localiza.Aplication\obj\Debug\net6.0\Localiza.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\source\repos\LocalizaAplication\Localiza.Aplication\obj\Debug\net6.0\Localiza.Aplication.AssemblyInfoInputs.cache
+C:\Users\Leonardo\source\repos\LocalizaAplication\Localiza.Aplication\obj\Debug\net6.0\Localiza.Aplication.AssemblyInfo.cs
+C:\Users\Leonardo\source\repos\LocalizaAplication\Localiza.Aplication\obj\Debug\net6.0\Localiza.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\LocalizaAplication\Localiza.Aplication\obj\Debug\net6.0\Localiza.Aplication.csproj.CopyComplete
+C:\Users\Leonardo\source\repos\LocalizaAplication\Localiza.Aplication\obj\Debug\net6.0\Localiza.Aplication.dll
+C:\Users\Leonardo\source\repos\LocalizaAplication\Localiza.Aplication\obj\Debug\net6.0\refint\Localiza.Aplication.dll
+C:\Users\Leonardo\source\repos\LocalizaAplication\Localiza.Aplication\obj\Debug\net6.0\Localiza.Aplication.pdb
+C:\Users\Leonardo\source\repos\LocalizaAplication\Localiza.Aplication\obj\Debug\net6.0\ref\Localiza.Aplication.dll
